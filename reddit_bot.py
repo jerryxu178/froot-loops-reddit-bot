@@ -16,8 +16,10 @@ def run_bot(r):
 			print "string found!"
 			comment.reply("You've misspelled froot loops!")
 	time.sleep(10)
+
 # [here](www.google.com)
 # comment.id
 # comment.author
+
 r = bot_login()
 run_bot(r)
