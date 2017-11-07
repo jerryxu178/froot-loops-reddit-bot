@@ -1,5 +1,5 @@
 # froot-loops-reddit-bot
-A bot that lets reddit users know when they have misspelled "froot loops" as "fruit loops".
+A bot that lets reddit users know when they have misspelled "froot loops" as "fruit loops" in their comments.
 
 ## Getting Started
 
